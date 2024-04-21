@@ -1,6 +1,6 @@
 # EXCEL TABLEAU
 # Analyzing/ Visualizing Student Grades in the Open University
-![Schema](Data Description.jpg)
+![Schema](image/Data_Description.jpg)
 ## Introduction
 #### Business Context
 The Open University, one of the world's largest universities by enrollment, has been actively developing an analytics platform named OU Analyse to monitor student performance across its programs. The goal is to reduce dropout rates, increase student engagement, and enhance learning outcomes. As part of their efforts, they are expanding their analytics team and have tasked candidates with analyzing student grades.
