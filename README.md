@@ -1,6 +1,7 @@
 # EXCEL TABLEAU
 # Analyzing/ Visualizing Student Grades in the Open University
-![Schema](image/Data_Description.jpg)
+![Schema](image/Tableau_View.jpg)
+
 ## Introduction
 #### Business Context
 The Open University, one of the world's largest universities by enrollment, has been actively developing an analytics platform named OU Analyse to monitor student performance across its programs. The goal is to reduce dropout rates, increase student engagement, and enhance learning outcomes. As part of their efforts, they are expanding their analytics team and have tasked candidates with analyzing student grades.
@@ -13,6 +14,7 @@ The dataset, contained in the OULA.xlsx file, includes demographic and assessmen
 3. assessments: Details of assessments for each module.
 4. student_assessment: Actual grades of students in each assessment.
 ## Data Preparation and Cleaning
+![Schema](image/Data_Description.jpg)
 ### Data Preparation
 The dataset required several preparation steps before computing GPAs and creating the Tableau dashboard:
 1. Completed code_module Column: Utilized INDEX & MATCH functions to fill the code_module column in the student_assessment worksheet.
