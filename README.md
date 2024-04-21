@@ -28,6 +28,7 @@ Creating the Dashboard
 Dashboard Creation
 ## Utilized Tableau 
 to create a dashboard allowing visualization of relationships between metrics (Average GPA, Student count) and dimensions (Age, Gender, Module, Region, Previous education). Implemented filters for multi-dimensional data analysis.
+https://public.tableau.com/app/profile/mahmood.honarvar/viz/StudentGPA_17137040185070/Dashboard3?publish=yes
 ### Design Considerations:
 * Clean and uncluttered dashboard layout.
 * Charts employ "Use as filter" functionality.
@@ -38,7 +39,7 @@ to create a dashboard allowing visualization of relationships between metrics (A
 ### Project Files
 * OULA.xlsx: Dataset containing student and assessment information.
 * README.md: Project overview and instructions.
-* Tableau_Dashboard.twb: Tableau workbook for the dashboard.
-* Exercise_Answers.xlsx: Excel file with completed exercises and dashboard link.
+* Student GPA.twb: Tableau workbook for the dashboard.
+
 
 
